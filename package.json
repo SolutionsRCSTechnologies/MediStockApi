@@ -1,0 +1,26 @@
+{
+  "name": "medistockapi",
+  "version": "1.0.0",
+  "description": "All Api solutions for MediStock App",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolutionsRCSTechnologies/MediStockApi.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Subhojit Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolutionsRCSTechnologies/MediStockApi/issues"
+  },
+  "homepage": "https://github.com/SolutionsRCSTechnologies/MediStockApi#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.0"
+  }
+}
